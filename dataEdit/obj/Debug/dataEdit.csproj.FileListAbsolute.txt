@@ -1,0 +1,9 @@
+D:\dancer_dataEdit\dataEdit\dataEdit\bin\Debug\dataEdit.exe.config
+D:\dancer_dataEdit\dataEdit\dataEdit\bin\Debug\dataEdit.exe
+D:\dancer_dataEdit\dataEdit\dataEdit\bin\Debug\dataEdit.pdb
+D:\dancer_dataEdit\dataEdit\dataEdit\obj\Debug\dataEdit.Properties.Resources.resources
+D:\dancer_dataEdit\dataEdit\dataEdit\obj\Debug\dataEdit.csproj.GenerateResource.cache
+D:\dancer_dataEdit\dataEdit\dataEdit\obj\Debug\dataEdit.csproj.CoreCompileInputs.cache
+D:\dancer_dataEdit\dataEdit\dataEdit\obj\Debug\dataEdit.exe
+D:\dancer_dataEdit\dataEdit\dataEdit\obj\Debug\dataEdit.pdb
+D:\dancer_dataEdit\dataEdit\dataEdit\obj\Debug\dataEdit.Hikim.resources

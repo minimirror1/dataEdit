@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataEdit", "dataEdit\dataEdit.csproj", "{FD683855-FC3A-4375-A1C3-3DC34CF5D607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD683855-FC3A-4375-A1C3-3DC34CF5D607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD683855-FC3A-4375-A1C3-3DC34CF5D607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD683855-FC3A-4375-A1C3-3DC34CF5D607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD683855-FC3A-4375-A1C3-3DC34CF5D607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4907A1AD-0522-4286-AFE7-E21636A885AC}
+	EndGlobalSection
+EndGlobal
